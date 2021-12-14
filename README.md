@@ -2,7 +2,7 @@
 	
 PGer
 
-storage & Transaction
+Storage & Transaction
 
 C++ & SQL & Python
 
