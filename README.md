@@ -1,6 +1,6 @@
 :boy: Database Kernel R&D Engineer
 	
-:heart_eyes: PGer
+PGer
 
 storage & Transaction
 
