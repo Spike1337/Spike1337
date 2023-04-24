@@ -4,5 +4,5 @@
 
 :moyai: Storage & Transaction
 
-:globe_with_meridians: C++ & SQL & Python
+:globe_with_meridians: C++ & Python & SQL
 
